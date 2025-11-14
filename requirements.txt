@@ -1,0 +1,10 @@
+groq
+streamlit
+chromadb
+PyPDF2
+#PyMuPDF
+sentence-transformers
+python-dotenv
+#requests
+#langchain-community
+pypdf
